@@ -29,7 +29,7 @@ Machine Learning
 Clone the repository:
 
 ```bash
-git clone https://github.com/kulsumkamal/Disaster-Prediction.git
+git clone https://github.com/kulsumkamal/disaster-prediction.git
 ```
 
 Install the required libraries:
